@@ -21,7 +21,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#00223a"
-      }
+      },
+      "package": "com.ardasevinc.helloworld"
     },
     "web": {
       "favicon": "./assets/favicon.png"
