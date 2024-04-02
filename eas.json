@@ -16,7 +16,8 @@
     "production": {
       "android": {
         "serviceAccountKeyPath": "/home/arda/Documents/keys/expo-service-account-key.json",
-        "track": "internal"
+        "track": "production"
+      }
     }
   }
 }
