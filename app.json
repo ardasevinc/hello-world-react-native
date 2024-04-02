@@ -22,7 +22,8 @@
         "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#00223a"
       },
-      "package": "com.ardasevinc.helloworld"
+      "package": "com.ardasevinc.helloworld",
+      "versionCode": "1.0.1"
     },
     "web": {
       "favicon": "./assets/favicon.png"
